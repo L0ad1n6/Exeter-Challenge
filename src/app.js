@@ -5,6 +5,7 @@ const bodyParser= require("body-parser")
 
 const app = express();
 app.use(bodyParser.urlencoded({extended:true}))
+app.set('trust proxy', 1)
 app.use(session({
 	secret: "challenge",
 	prev: 1,
@@ -14,7 +15,8 @@ app.use(session({
 	stage_4: false,
 	stage_5: false,
 	resave: false,
-  	saveUninitialized: true
+  	saveUninitialized: true,
+	cookie: {secure: true}
 }))
 
 
@@ -88,6 +90,7 @@ app.get("/stage-1", (req, res) => {
 app.get("/stage-2", (req, res) => {
 	if (!req.session.stage_1) {
 		res.redirect("/stage-1")
+		return
 	}
 	res.sendFile("/views/stage-2.html", {root:path.join(path.resolve(__dirname, ".."))})
 })
@@ -95,6 +98,7 @@ app.get("/stage-2", (req, res) => {
 app.get("/stage-3", (req, res) => {
 	if (!req.session.stage_2) {
 		res.redirect("/stage-2")
+		return
 	}
 	res.sendFile("/views/stage-3.html", {root:path.join(path.resolve(__dirname, ".."))})
 })
@@ -102,6 +106,7 @@ app.get("/stage-3", (req, res) => {
 app.get("/stage-4", (req, res) => {
 	if (!req.session.stage_3) {
 		res.redirect("/stage-3")
+		return
 	}
 	res.sendFile("/views/stage-4.html", {root:path.join(path.resolve(__dirname, ".."))})
 })
@@ -109,6 +114,7 @@ app.get("/stage-4", (req, res) => {
 app.get("/stage-5", (req, res) => {
 	if (!req.session.stage_3) {
 		res.redirect("/stage-3")
+		return
 	}
 	res.sendFile("/views/stage-5.html", {root:path.join(path.resolve(__dirname, ".."))})
 })
@@ -116,6 +122,7 @@ app.get("/stage-5", (req, res) => {
 app.get("/congrats", (req, res) => {
 	if (!req.session.stage_3) {
 		res.redirect("/stage-3")
+		return
 	}
 	res.sendFile("/views/congrats.html", {root:path.join(path.resolve(__dirname, ".."))})
 })
