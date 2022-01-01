@@ -1,0 +1,35 @@
+vigenere cipher
+Rail Fence
+ceaser shift
+rsa
+
+First layer down, who knows how many are left. You are almost over the fence.
+
+Second layer down, did you like my hint? Sadly the hint won't be so obvious for this layer but it is something that you should find familiar.
+
+Damn, third layer down. I'll let you in on a secret, this is the last layer. Once you crack this layer you will have access to the final token.
+
+Token: HPIqaiJWoWlDhYfpUzMX
+
+
+
+
+
+U1zcd 3j4ju p0fc, 731 mndbb p8g 4jt3 d3q 43qf. Bqu z6x i5661z tyq3 c6p 1rpc3.
+76i·726rsn·otufi·zasv·ej8·xv1iauoko.qqxdyaotr2.RZS8CE9AD·69·6N·QKw·3u,yX9Ry.cOP·Hkjf·64·SkCM·T·JKB4ZQ284·XOUP1U·3AX6YR·H6Zxwx5g0j1,gpadav·kup?S2dcm17·6'·ny·gl6·0·0hwk4dt7·7bud2y2g·t·k6pyc·l4vt·Rba·0·tu2ymz·jrq173t2·OFF6Y4V9BB4344FHQY·4O,M0tQtQ1w.IJ·3·A·87··6JS·mJk·a·s9QtQ·Beys1w5Ca·2d·T·9Nad·sjNS·5·ia·M3.zMP,FT1DU·72IH711U94·YSSOMT·Y5DX42·NM918R·304TOM·R0T8BZ·2XIc·33···x·1u··d5ku0v3ut··7z3·6wo·21t·wdzb·1l·hqMQ1B1GB46.f·M9·B'LygCEzC·LD·dT··3jE9aQ59GOeLI9=M=Q.X·S·8EU7UK·GBX3W7·42PTNKW
+
+First layer down, who knows how many are left. You are almost over the fence.
+Sna·nioimi·lhiwt·ooft·eut·enhyslifl.eeeonobrrd.CGKOSW048·3x·u4·19a·qs,y8u8q.s47·8eec·us·9v10·G·HKMPGIIOM·OIPMPI·KLMKLP·HHKeodlyrdw,ddyulk·yhn?Sdytehn·o'·es·biu·o·hslyrbti·ssmtigta·o·hudfn·aiir·Rmv·h·laigdt·eoepoeig·BDFHJLNPRTVXZ13579·T2,9yt1e7tc.Y1·u·4·34··u79·x8y·x·q91e7·3ueasq09y·qu·4·y1xb·su89·x·yq·4u.tHM,3HIOJ·LPGHIMIMPK·GJMJJH·MMOMIP·LMKMPJ·JGMKIH·OOHPMO·GKGc·eo···e·ta··tnbovsria··ioh·tuo·dma·otft·sf·cnAEIMQUY26.q·7q·3'1ey38u9·91·u4··sx17a1qq84u393=H=N.L·G·PPJLHI·GMIKON·KKGNIHK
+
+Second layer down, did you like my hint? Sadly the hint won't be so obvious for this layer but it is something that you should find familiar. 
+Remove the dots before proceding. ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789. 
+Tq23, 9xy7t 1qeu7 t4c3. Y'11 1u9 e4a y3 43 q 8us7u9, 9xy8 y8 9xu 1q89 1qeu7. 43su e4a s7qs0 9xy8 1qeu7 e4a cy11 xqbu qssu88 94 9xu vy3q1 940u3.
+t=HGMH, 3=HHINOKJ. MLLPPG HGIGMII MIPPKO PGMJJM JLJOHH IMIMPO MMIGPP MLIMIK MKPKJO LJNGMM KKIKHL KOPOGH PNMHOI HGHKKGK
+
+Damn, third layer down. I'll let you in on a secret, this is the last layer. Once you crack this layer you will have access to the final token.
+d=1061, n=1127843. 
+655990 1020622 629948 906336 353811 262698 662099 652624 649438 537066 442415 489801 976182 1014404 
+
+
+
+Glad you looked, here is the key: pTiUuSJGFDMmtZlwncaZ
