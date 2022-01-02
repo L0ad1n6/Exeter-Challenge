@@ -127,4 +127,5 @@ app.get("/congrats", (req, res) => {
 	res.sendFile("/views/congrats.html", {root:path.join(path.resolve(__dirname, ".."))})
 })
 
-app.listen(3000);
+port = process.env.PORT || 3000
+app.listen(port);
