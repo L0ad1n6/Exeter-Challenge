@@ -5,6 +5,12 @@
   "main": "src/app.js",
   "author": "Altan Unver",
   "license": "MIT",
+  "scripts": {
+    "start": "node src/app.js",
+    "cipher": "python3.9 src/cipher.py",
+    "serve": "git push heroku HEAD:master",
+    "serve:dev": "nodemon src/app.js"
+  },
   "dependencies": {
     "body-parser": "^1.19.1",
     "express": "^4.17.2",
