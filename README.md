@@ -2,7 +2,7 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-Friendly challenge for my fellow exonians.
+Friendly challenge for my fellow exonians. (Latest version does not work as intended, working on v2 so this project will remain broken for the forseable future. However I do plan to refactor and fix it someday)
 
 ## Table of Contents
 
